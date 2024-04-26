@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/215FinalProject-homedecorstore/static/css/main.4d6ca8a0.css",
+    "main.js": "/215FinalProject-homedecorstore/static/js/main.bf63b0c8.js",
+    "static/media/hero.jpg": "/215FinalProject-homedecorstore/static/media/hero.5f863ee95798c91fdadc.jpg",
+    "static/media/p4.jpg": "/215FinalProject-homedecorstore/static/media/p4.15687bb6e2b6ca8145a7.jpg",
+    "index.html": "/215FinalProject-homedecorstore/index.html",
+    "main.4d6ca8a0.css.map": "/215FinalProject-homedecorstore/static/css/main.4d6ca8a0.css.map",
+    "main.bf63b0c8.js.map": "/215FinalProject-homedecorstore/static/js/main.bf63b0c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d6ca8a0.css",
+    "static/js/main.bf63b0c8.js"
+  ]
+}
